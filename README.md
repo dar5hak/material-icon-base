@@ -1,5 +1,5 @@
 # material-icon-base
-`material-icon-base.svg` is a template that you can use to design your next Material Design icon. It tries to follow the [guidelines](http://www.google.com/design/spec/style/icons.html#icons-product-icons) published by Google.
+`material-icon-base.svg` is a template that you can use to design your next Material Design icon. It tries to follow the [guidelines](http://www.google.com/design/spec/style/icons.html#icons-product-icons) published by Google. Please read those before proceeding.
 
 ## How to use it
 
