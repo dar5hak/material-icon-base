@@ -11,8 +11,9 @@
     
     In Inkscape, Go to `Filters > Shadows and Glows > Drop Shadow…` and select:
     
-    |Blur radius      |6.0 px|
+    |Property         |Value |
     |:----------------|-----:|
+    |Blur radius      |6.0 px|
     |Opacity          |20%   |
     |Horizontal offset|0.0 px|
     |Vertical offset  |6.0 px|
