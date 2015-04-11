@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ic_launcher.svg">
+   sodipodi:docname="material-icon-base.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -142,17 +142,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.828125"
-     inkscape:cx="50.740331"
+     inkscape:zoom="2.765625"
+     inkscape:cx="96"
      inkscape:cy="96"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="716"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -226,7 +226,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Finish"
-     style="display:none">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        transform="translate(0,-860.36218)"
        style="opacity:0.1;fill:url(#linearGradient3810);fill-opacity:1;stroke:none"

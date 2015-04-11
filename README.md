@@ -27,5 +27,4 @@ material-icon-base.svg is a template that you can use to design your next Materi
     
     Follow a similar route for the shaded edge. You can find the recommended colour values [here](http://www.google.com/design/spec/style/icons.html#icons-product-icons).
     
-4.  Make the `Finish` layer visible.
-5.  Save the icon. The default resolution is xxxhdpi. Scale down as per your needs.
+4.  Save the icon. The default resolution is xxxhdpi. Scale down as per your needs.
