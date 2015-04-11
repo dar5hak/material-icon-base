@@ -1,19 +1,22 @@
 # material-icon-base
-material-icon-base.svg is a template that you can use to design your next Material Design icon. It tries to follow the [guidelines](http://www.google.com/design/spec/style/icons.html#icons-product-icons) published by Google.
+`material-icon-base.svg` is a template that you can use to design your next Material Design icon. It tries to follow the [guidelines](http://www.google.com/design/spec/style/icons.html#icons-product-icons) published by Google. Please read those before proceeding.
 
-## How to use
+## Usage
 
 1.  Select your base shape: square, circle, vertical rectangle or horizontal rectangle.
     
-    I've included geometrically compliant object for each. Remove the ones you don't need from the `Material Background` layer.
+    I've included a geometrically compliant object for each. Remove the ones you don't need from the `Material Background` layer.
     
 2.  Add your foreground to the `Material Foreground` layer and apply drop shadows to it.
     
     In Inkscape, Go to `Filters > Shadows and Glows > Drop Shadow…` and select:
-    Blur radius|6.0 px
-    Opacity|20%
-    Horizontal offset|0.0 px
-    Vertical offset|6.0 px
+    
+    |Property         |Value |
+    |:----------------|-----:|
+    |Blur radius      |6.0 px|
+    |Opacity          |20%   |
+    |Horizontal offset|0.0 px|
+    |Vertical offset  |6.0 px|
     
     The white square is an example.
     
